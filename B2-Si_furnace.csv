@@ -1,0 +1,289 @@
+Composition,ZrB2,HfB2,TaB2,SiC,Ta,TaC,Mo,B4C,Si3N4,Ta5Si3,TaSi2,ZrO2,Mosi2,WC,WB,ZrSi2,CrB2,LaB6,La2O3,Gd2O3,HfSi2,C,HfC,BN,TiSi2,Sintering Method,Sintering Temperature ©,Sintering Pressure (Mpa),Sintering Time (min),Mean Grain Size (um),Relative Density (%),Oxidation Test,Temperature (C),Holding Time (min),Atmospheric Condition,Flow Rate (cm3/min),Oxide Thickness (um),Compostion/ Structure,Mass Gain (mg/cm2)
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,37,"(1)10 - ZrO2, (2)30 - ZrO2 + SiC",1.07
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,38,(1)ZrO2 (2)ZrO2 + SiC (3) ZrB2-SiC,2
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,48,(1)ZrO2 (2)ZrO2 + SiC (3) ZrB2-SiC,2.5
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,48,(1)SiO2 (2)ZrO2+SiC (3) ZrB2-SiC,3.34
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,75.86,(1)SiO2 (2)ZrO2+SiC (3) ZrB2-SiC,nan
+ZrB2 - 20% SiC - 2% Mo - 2% B4C,76,,,20,,,2,2,0,0,0,0,0,0,,,,,,,,,,,,Pressureless sintering,2250,0,120,,97.6,Furnace,,30,air,0,202,(1)SiO2 (2)ZrO2+SiC (3) ZrB2-SiC,nan
+ZrB2 - 5% Si3N4 ,95,,,,,,,,5,,0,,,,,,,,,,,,,,,Hot pressed,1850,20,60,,,Furnace,,120,air,0,140,,1.5
+ZrB2 - 20% Si3N4,80,,,,,,,,20,,0,,,,,,,,,,,,,,,Hot pressed,1850,20,60,,,Furnace,,120,air,0,60,,0.6
+ZrB2 - 35% Si3N4,65,,,,,,,,35,,0,,,,,,,,,,,,,,,Hot pressed,1850,20,60,,,Furnace,800,120,air,0,,,0.45
+ZrB2 - 8% Ta5Si3,92,,,,,,,,,8,0,,,,,,,,,,,,,,,Hot pressed,1900,20,30,,,Furnace,800,120,air,0,,,
+ZrB2 - 15% Ta5Si3,85,,,,,,,,,15,0,,,,,,,,,,,,,,,Hot pressed,1900,20,30,,,Furnace,800,120,air,0,115,,
+ZrB2 - 31% Ta5Si3,69,,,,,,,,,31,0,,,,,,,,,,,,,,,Hot pressed,1900,20,30,,,Furnace,800,120,air,0,,,
+ZrB2 - 10% TaSi2 ,90,,,,,,,,,,10,,,,,,,,,,,,,,,Hot pressed,2000,20,20,,,Furnace,800,120,air,0,,,2.1
+ZrB2 - 20% TaSi2 ,80,,,,,,,,,,20,,,,,,,,,,,,,,,Hot pressed,2000,20,20,,,Furnace,900,120,air,0,,,1
+ZrB2 - 30% TaSi2 ,70,,,,,,,,,,30,,,,,,,,,,,,,,,Hot pressed,2000,20,20,,,Furnace,900,120,air,0,50,,0.5
+ZrB2 - 30% TaSi2 ,70,,,,,,,,,,30,,,,,,,,,,,,,,,Hot pressed,2000,20,20,,,Furnace,900,120,air,0,60,,1.3
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,20,95.6,Furnace,1000,600,air,0,,,7.11
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,20,97.4,Furnace,1000,600,air,0,,,6.94
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,20,96.5,Furnace,1000,600,air,0,,,5.31
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,20,97.3,Furnace,1000,600,air,0,,,4.66
+ZrB2 - 15% ZrO2 - 5% SiC,80,,,5,,,,,,,,15,,,,,,,,,,,,,,Spark Plasma Sintering,1900,30,10,,99.7,Furnace,1000,140,air,0,,,19.94785
+ZrB2 - 15% ZrO2 - 15% SiC,70,,,15,,,,,,,,15,,,,,,,,,,,,,,Spark Plasma Sintering,1900,30,10,,99.4,Furnace,1000,140,air,0,,,8.4479
+ZrB2 - 15% ZrO2 - 25% SiC,60,,,25,,,,,,,,15,,,,,,,,,,,,,,Spark Plasma Sintering,1900,30,10,,99.5,Furnace,1000,170,air,0,,,4.95517
+ZrB2 - 15% ZrO2 - 35% SiC,50,,,35,,,,,,,,15,,,,,,,,,,,,,,Spark Plasma Sintering,1900,30,10,,99.3,Furnace,1000,170,air,0,,,6.19051
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,2,,98.3,Furnace,1000,600,air,0,140,,
+ZrB2 - 10% MoSi2 ,90,,,,,,,,,,,,10,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1100,60,air,0,,,7.94045
+ZrB2 - 10% MoSi2 ,90,,,,,,,,,,,,10,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1100,300,air,0,,,17.94016
+ZrB2 - 10% MoSi2 ,90,,,,,,,,,,,,10,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1100,600,air,0,,,23.37007
+ZrB2 - 20% MoSi2 ,80,,,,,,,,,,,,20,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.8,Furnace,1100,60,air,0,,,3.22686
+ZrB2 - 20% MoSi2 ,80,,,,,,,,,,,,20,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.8,Furnace,1100,300,air,0,,,7.41197
+ZrB2 - 20% MoSi2 ,80,,,,,,,,,,,,20,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.8,Furnace,1100,600,air,0,,,11.60783
+ZrB2 - 40% MoSi2 ,60,,,,,,,,,,,,40,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1200,60,air,0,,,2.87459
+ZrB2 - 40% MoSi2 ,60,,,,,,,,,,,,40,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1200,300,air,0,,,6.0904
+ZrB2 - 40% MoSi2 ,60,,,,,,,,,,,,40,,,,,,,,,,,,,Hot pressed,1800,30,30,,99.7,Furnace,1200,600,air,0,157,,6.98235
+ZrB2 - 44% MoSi2,56,,,,,,,,,,,,44,,,,,,,,,,,,,Hot pressed,1787.5,30,15,,,Furnace,1200,--,air,0,15,,6
+ZrB2 - 14% MoSi2,86,,,,,,,,,,,,14,,,,,,,,,,,,,Hot pressed,1787.5,30,15,,,Furnace,1200,--,air,0,24,7-8 SiO2 - 15-20 SiO2 + ZrO2-Mo5Si3,5.8
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2000,50,10,,99.3,Furnace,1200,60,air,0,100,25 B2O3 - 75 ZrO2 + B2O3 ,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Hot pressed,,,,,,Furnace,1200,100,air,0,,image,2.9
+ZrB2 - 3% SiC - 5% WC,92,,,3,,,,,,,,,,5,,,,,,,,,,,,Hot pressed,1930,40,30,,99.9,Furnace,1200,15,air,0,80,,5.35
+ZrB2 - 15% SiC - 5% WC,80,,,15,,,,,,,,,,5,,,,,,,,,,,,Hot pressed,1930,40,12,,93.8,Furnace,1200,15,air,0,45,,3.4
+ZrB2 - 31% SiC - 8% Si3N4,61,,,31,,,,,8,,,,,,,,,,,,,,,,,Hot pressed,1850,20,30,,99,Furnace,1200,--,,,,,
+ZrB2 - 9% Si3N4,91,,,,,,,,9,,,,,,,,,,,,,,,,,Hot pressed,1850,20,30,,92.3,Furnace,1200,--,,,,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1850,20,30,,98,Furnace,1200,--,,,,,
+ZrB2 - 29% SiC - 6% TiSi2,65,,,29,,,,,,,,,,,,,,,,,,,,,6,Hot pressed,1850,20,30,,98.8,Furnace,1200,--,,,,,
+ZrB2 - 29% SiC - 5% MoSi2,66,,,29,,,,,,,,,5,,,,,,,,,,,,,Hot pressed,1850,20,30,,97,Furnace,1200,--,,,,,
+ZrB2 - 29% SiC - 5% MoSi2,66,,,29,,,,,,,,,5,,,,,,,,,,,,,Hot pressed,1850,20,30,,96,Furnace,1200,--,,,,,
+ZrB2 - 30% SiC - 5% ZrSi2,65,,,30,,,,,,,,,,,,5,,,,,,,,,,Hot pressed,1850,20,30,,86.5,Furnace,1200,--,,,,,
+ZrB2 - 30% SiC - 5% ZrSi2,65,,,30,,,,,,,,,,,,5,,,,,,,,,,Hot pressed,1850,20,30,,97,Furnace,1200,--,,,,,
+ZrB2 - 15% MoSi2,85,,,,,,,,,,,,15,,,,,,,,,,,,,Hot pressed,2010,48,9,,86.8,Furnace,1300,30,air,0,,image,
+ZrB2 - 3% SiC - 5% MoSi2,92,,,3,,,,,,,,,5,,,,,,,,,,,,,Hot pressed,1870,48,15,,92.7,Furnace,1300,30,air,0,,image,
+ZrB2 - 15% SiC - 5% MoSi2,80,,,15,,,,,,,,,5,,,,,,,,,,,,,Hot pressed,1870,48,15,,92.6,Furnace,1300,30,air,0,,image,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2075,48,15,,99.9,Furnace,1300,30,air,0,,image,
+ZrB2 - 15% SiC - 5%CrB2,80,,,15,,,,,,,,,,,,,5,,,,,,,,,Hot pressed,1870,48,20,,97.1,Furnace,1300,30,air,0,,image,
+ZrB2 - 15% MoSi2 - 5% CrB2,80,,,,,,,,,,,,15,,,5,,,,,,,,,,Hot pressed,1740,48,20,,93.9,Furnace,1300,30,air,0,,image,
+ZrB2 - 30% SiC - 5% ZrSi2,65,,,30,,,,,,,,,,,,5,,,,,,,,,,Hot pressed,1800,30,10,,,Furnace,1300,--,air,0,28,"10-15 ZrO2-SiO2, 10 ZrO2 - ZrSiO4",
+ZrB2 - 27% SiC - 5% MoSi2,68,,,27,,,,,,,,,5,,,,,,,,,,,,,Hot pressed,1800,30,10,,,Furnace,1300,1800,air,0,,20-25  ZrO2-SiO2,
+ZrB2 - 20% SiC - 2.5% Si3N4,77.5,,,20,,,,,2.5,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,120,98.79,Furnace,1300,600,air,0,64,"SiO2, ZrO2",13.84
+ZrB2 - 20% SiC - 5% Si3N4,75,,,20,,,,,5,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,120,98.5,Furnace,1300,600,air,0,94,"SiO2, ZrO2",13.38
+ZrB2 - 20% SiC - 10% Si3N4,70,,,20,,,,,10,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,120,98,Furnace,1300,600,air,0,128,"SiO2, ZrO2",9.54
+ZrB2 - 20% SiC - 7% LaB6,73,,,20,,,,,,,,,,,,,,7,,,,,,,,Spark Plasma Sintering,1800,70,5,,95,Furnace,1300,360,,0,60,,
+ZrB2 - 20% SiC - 10% LaB6,70,,,20,,,,,,,,,,,,,,10,,,,,,,,Spark Plasma Sintering,1800,70,5,,97.5,Furnace,1300,480,,0,89,,
+ZrB2 - 20% SiC - 14% LaB6,66,,,20,,,,,,,,,,,,,,14,,,,,,,,Spark Plasma Sintering,1800,70,5,,98.2,Furnace,1300,720,,0,145,,
+ZrB2 - 20 % SiC - 10 % Si3N4,70,,,20,,,,,10,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,,98.73,Furnace,1300,600,air,0,476,,
+ZrB2 - 20% SiC - 10% Ta,70,,,20,10,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,,99.63,Furnace,1300,600,air,0,255,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1820,30,15,,99,Furnace,1300,1200,air,20,,,
+ZrB2 - 15% SiC - 10% HfB2,75,10,,15,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1940,40,45,,98.2,Furnace,1300,1200,air,20,125,(1) 25 glassy layer (2) 100 oxide,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,98.1,Furnace,1300,60,air,0,300,images,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,98.1,Furnace,1300,60,air,0,310,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,99.8,Furnace,1327,60,air,0,192,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,99.8,Furnace,1327,60,air,0,380,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1820,30,15,,,Furnace,1327,120,air,0,60,(1) 20 B2Si3 (2) 40 ZrO2 ,
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,100,Furnace,1400,60,air,0,1100,image,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,98,Furnace,1400,60,air,0,600,image,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Hot pressed,2000,30,60,,100,Furnace,1400,60,air,0,800,image,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,elsewhere,,,,,,Furnace,1400,240,air,0,100,image,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,elsewhere,,,,,,Furnace,1400,--,air,0,,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,180,air,0,160,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,180,air,0,105,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,180,air,0,45,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,240,air,0,190,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,240,air,0,125,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,240,air,0,70,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,480,air,0,260,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,480,air,0,225,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,Furnace,1400,480,air,0,100,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,25,image,1.5
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,30,image,2.5
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,50,image,2.95
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,55,image,3
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,75,image,3.5
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,280,image,9
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,50,99,Furnace,1400,60,air,0,image,image,22.5
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1800,23,60,,93,Furnace,1400,3840,air,0,,,0.23
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Hot pressed,1800,23,60,,93,Furnace,1400,300,air,0,,,7.14
+ZrB2 - 14% SiC - 30% BN,56,,,14,,,,,,,,,,,,,,,,,,,,30,,Hot pressed,1800,23,60,,90.3,Furnace,1400,--,,,,,plot
+ZrB2 - 14% SiC - 30% BN,56,,,14,,,,,,,,,,,,,,,,,,,,30,,Hot pressed,1800,23,60,,90.3,Furnace,1400,--,,,,,plot
+ZrB2 - 26.9% SiC - 30% BN,43.1,,,26.9,,,,,,,,,,,,,,,,,,,,30,,Hot pressed,1800,23,60,,90.6,Furnace,1400,3840,,,,,0.2
+ZrB2 - 26.9% SiC - 30% BN,43.1,,,26.9,,,,,,,,,,,,,,,,,,,,30,,Hot pressed,1800,23,60,,90.6,Furnace,1400,300,,,,,2.68
+ZrB2 - 25% SiC - 35% BN,40,,,25,,,,,,,,,,,,,,,,,,,,35,,Hot pressed,1800,23,60,,92.6,Furnace,1400,--,,,,,plot
+ZrB2 - 25% SiC - 35% BN,40,,,25,,,,,,,,,,,,,,,,,,,,35,,Hot pressed,1800,23,60,,92.6,Furnace,1400,--,,,,,plot
+HfB2 - 25.92% SiC,0,54.08,,25.92,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,32,60,,99.8,Furnace,1400,30,air,0,,(1) SiO2 3 (2) SiC depleted 10,
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,30,air,0,52.5,,3.9
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,180,air,0,117,,8.1
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,600,air,0,235,,16.2
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,30,air,0,15,,2
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,180,air,0,27.5,,3.1
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,20,,Furnace,1400,600,air,0,37,,4.9
+HfB2 - 15% TaSi2,85,,,,,,,,,,15,,,,,,,,,,,,,,,hot pressed,1900,30,15,,99,Furnace,1400,15,air,0,100,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,30,30,,,Furnace,1450,30,air,0,10,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,30,30,,,Furnace,1450,30,air,0,72,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,30,30,,,Furnace,1450,30,air,0,40,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,30,30,,,Furnace,1450,30,air,0,160,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,99,Furnace,1450,1440,air,0,90,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,99,Furnace,1450,6000,air,0,--,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,99,Furnace,1450,1440,air,0,175,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,99,Furnace,1450,6000,air,0,--,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,96,Furnace,1500,1440,air,0,41,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,96,Furnace,1500,6000,air,0,59.5,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,96,Furnace,1500,1440,air,0,59,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,30,,96,Furnace,1500,6000,air,0,64,,
+ZrB2 - 10% TiSi2,90,,,,,,,,,,,,,,,,,,,,,,,,10,hot pressed,1650,20,60,,98.9,Furnace,1500,--,air,0,,,Plot
+ZrB2 - 10% HfB2 - 10% TiSi2,80,10,,,,,,,,,,,,,,,,,,,,,,,10,hot pressed,1650,20,60,,99.6,Furnace,1500,--,air,0,,,Plot
+ZrB2 - 20% HfB2 - 10% TiSi2,70,20,,,,,,,,,,,,,,,,,,,,,,,10,hot pressed,1650,20,60,,98.4,Furnace,1500,--,air,0,,,Plot
+ZrB2 - 20% SiC - 15% graphite ,65,,,20,,,,,,,,,,,,,,,,,,15,,,,hot pressed,1900,30,60,,99.6,furnace,1500,--,air,,,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,99.8,furnace,1500,30,air,0,35,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,99.8,furnace,1500,30,air,0,78,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,99.8,furnace,1500,30,air,0,826,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,98.5,furnace,1500,30,air,0,37,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,98.5,furnace,1500,30,air,0,67,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9-May,,98.5,furnace,1500,30,air,0,537,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,96.2,furnace,1500,30,air,0,34,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,96.2,furnace,1500,30,air,0,76,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,96.2,furnace,1500,30,air,0,565,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,30,60,,,furnace,1500,30,Oxygen and nitrogen,0,160,,
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.4,Furnace,1500,60,air,0,,,0.38
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.4,Furnace,1500,60,air,0,,,1.09
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.4,Furnace,1500,60,air,0,50,,5.31
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.4,Furnace,1500,60,air,0,,,11.38
+ZrB2 - 5% SiC,95,,,5,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.4,Furnace,1500,60,air,0,,,22.36
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,98,Furnace,1500,60,air,0,,,0.39
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,98,Furnace,1500,60,air,0,,,0.71
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,98,Furnace,1500,60,air,0,,,4.282
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,98,Furnace,1500,60,air,0,,,9.973
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,98,Furnace,1500,60,air,0,,,20.292
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,99,Furnace,1500,60,air,0,,,0.39
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,99,Furnace,1500,60,air,0,,,1.09
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,99,Furnace,1500,60,air,0,,,3.802
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,99,Furnace,1500,60,air,0,,,9.97
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,99,Furnace,1500,60,air,0,,,17.854
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.1,Furnace,1500,60,air,0,,,0.39
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.1,Furnace,1500,60,air,0,,,1
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.1,Furnace,1500,60,air,0,10,,3.165
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.1,Furnace,1500,60,air,0,,,7.739
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,97.1,Furnace,1500,60,air,0,,,14.919
+HfB2 - 20% SiC - 10% WC,0,70,,20,,,,,,,,,,10,,,,,,,,,,,,Pressureless sintering,2200,250,120,6.9,99,Furnace,1500,30,air,0,,,0.85
+HfB2 - 20% SiC - 10% WC,0,70,,20,,,,,,,,,,10,,,,,,,,,,,,Pressureless sintering,2200,250,120,6.9,99,Furnace,1500,180,air,0,44,,1.9
+HfB2 - 20% SiC - 10% WC,0,70,,20,,,,,,,,,,10,,,,,,,,,,,,Pressureless sintering,2200,250,120,6.9,99,Furnace,1500,600,air,0,,,3.7
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1700,7,600,,92,Furnace,1500,3000,air,0,490,,
+ZrB2 - 35% SiC,75,,,25,,,,,,,,,,,,,,,,,,,,,,hot pressed,1700,7,600,,92,Furnace,1500,3000,air,0,65,,
+ZrB2 - 50% SiC,50,,,50,,,,,,,,,,,,,,,,,,,,,,hot pressed,1700,7,600,,92,Furnace,1500,3000,air,0,180,,
+ZrB2 - 65% SiC,35,,,65,,,,,,,,,,,,,,,,,,,,,,hot pressed,1700,7,600,,92,Furnace,1500,3000,air,0,290,,
+ZrB2 - 80% SiC,20,,,80,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,50,5,,92,Furnace,1500,3000,air,0,380,,
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.3,99.8,Furnace,1500,300,air,0,32,,1.79131
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.02,99.7,Furnace,1500,300,air,0,16,,1.17993
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,3.88,97.5,Furnace,1500,300,air,0,21,,1.17947
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.3,99.8,Furnace,1500,300,air,0,166,,12.66462
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.02,99.7,Furnace,1500,300,air,0,114,,12.33689
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,3.88,97.5,Furnace,1500,300,air,0,82,,8.59805
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.3,99.8,Furnace,1500,300,air,0,521,,22.94532
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,4.02,99.7,Furnace,1500,300,air,0,323,,16.63592
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,25,60,3.88,97.5,Furnace,1500,300,air,0,229,,11.63501
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,30,60,,,furnace,1500,30,air,0,40,,
+ZrB2 - 20% SiC - 10 wt% La2O3,70,,,20,,,,,,,,,,,,,,,10,,,,,,,Spark Plasma Sintering,1850,70,5,,99,furnace,1500,60,,,,,
+ZrB2 - 20% SiC - 10 wt% LaB6,70,,,20,,,,,,,,,,,,,,10,,,,,,,,Spark Plasma Sintering,1750,70,5,,99,furnace,1500,60,,,,,
+ZrB2 - 20% SiC - 10 wt% Gd2O3,70,,,20,,,,,,,,,,,,,,,,10,,,,,,Spark Plasma Sintering,1800,70,5,,99,furnace,1500,60,,,,,
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1400,air,0,,,5.6
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1600,air,0,,,6
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1800,air,0,,,6.3
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1400,air,0,,,2.3
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1600,air,0,,,2.5
+ZrB2 - 20% MoSi2,80,,,,,,,,,,,,20,,,,,,,,,,,,,Pressureless sintering,1830,350,30,,99.7,furnace,1500,1800,air,0,,,2.75
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,76.2,furnace,1526.85,16.66667,air,0,30,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,76.2,furnace,1526.85,33.33333,air,0,35,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,76.2,furnace,1526.85,58.33333,air,0,37,,
+ZrB2 - 50% SiC,50,,,50,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,63.9,furnace,1526.85,16.66667,air,0,20,,
+ZrB2 - 50% SiC,50,,,50,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,63.9,furnace,1526.85,33.33333,air,0,21,,
+ZrB2 - 50% SiC,50,,,50,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,35,120,,63.9,furnace,1526.85,58.33333,air,0,22,,
+ZrB2 - 40% MoSi2 - 5% SiC ,55,,,5,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,60,air,0,,,2.5
+ZrB2 - 40% MoSi2 - 5% SiC ,55,,,5,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,300,air,0,,,5
+ZrB2 - 40% MoSi2 - 5% SiC ,55,,,5,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,600,air,0,148,,5.9
+ZrB2 - 40% MoSi2 - 20% SiC,40,,,20,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,60,air,0,,,2.3
+ZrB2 - 40% MoSi2 - 20% SiC,40,,,20,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,300,air,0,,,2.9
+ZrB2 - 40% MoSi2 - 20% SiC,40,,,20,,,,,,,,,40,,,,,,,,,,,,,hot pressed,1800,30,30,,ref,furnace,1550,600,air,0,62,,3.2
+HfB2 - 10% HfSi2,0,90,,,,,,,,,,,,,,,,,,,10,,,,,Spark Plasma Sintering,1800,50,10,,95,Furnace,1550,300,air,0,,,8
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,ref,,,,,Furnace,1550,300,air,0,100,,
+ZrB2 - 14% SiC - 30% C,56,,,14,,,,,,,,,,,,,,,,,,30,,,,hot pressed,ref,,,,,Furnace,1550,300,air,0,79,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,ref,,,,,Furnace,1550,900,air,0,140,,
+ZrB2 - 14% SiC - 30% C,56,,,14,,,,,,,,,,,,,,,,,,30,,,,hot pressed,ref,,,,,Furnace,1550,900,air,0,120,,
+HfB2 - 30% SiC,0,70,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,20,120,,97.8,Furnace,1550,60,air,0,4,,0.75
+HfB2 - 30% SiC,0,70,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,20,120,,97.8,Furnace,1550,30,air,0,8,,1.9
+HfB2 - 30% SiC,0,70,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,20,120,,97.8,Furnace,1550,30,air,0,27,,2.6
+HfB2 - 30% SiC,0,70,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,20,120,,97.8,Furnace,1550,30,air,0,30,,3.2
+HfB2 - 5% SiC,0,95,,5,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1850,100,10,,99,Furnace,1550,20,air,0,,,
+HfB2 - 10% SiC,0,90,,10,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1800,100,10,,100,Furnace,1550,20,air,0,,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1750,100,10,,100,Furnace,1550,20,air,0,,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1750,100,10,,100,Furnace,1550,20,air,0,,,
+HfB2 - 25% SiC,0,75,,25,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1700,100,10,,99,Furnace,1550,20,air,0,,,
+HfB2 - 30% SiC,0,70,,30,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1700,100,10,,99,Furnace,1550,20,air,0,,,
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1800,40,5,,85,Furnace,1550,180,air,0,145,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1800,40,5,,93,Furnace,1550,180,air,0,127,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1800,40,5,,95,Furnace,1550,180,air,0,110,,
+ZrB2 - 20% SiC - 5% WC,75,,,20,,,,,,,,,,5,,,,,,,,,,,,Spark Plasma Sintering,1800,40,5,,100,Furnace,1550,180,air,0,102,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,120,,99.5,Furnace,1550,600,air,0,125,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,,99.27,Furnace,1550,--,air,0,10,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,99.9,Furnace,1550,30,air,0,35,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,99.9,Furnace,1550,30,air,0,78,,
+HfB2 - 15% SiC,0,85,,15,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,99.9,Furnace,1600,30,air,0,826,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,37,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,67,,
+HfB2 - 15% SiC - 3% WC,0,82,,15,,,,,,,,,,3,,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,537,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,34,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,76,,
+HfB2 - 15% SiC - 3% WB,0,82,,15,,,,,,,,,,,3,,,,,,,,,,,Spark Plasma Sintering,2100,32,9,,100,Furnace,1600,30,air,0,565,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,20,,1.5
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,25,,2.5
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,50,,3
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,53,,3.2
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,65,,4
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,270,,8
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2100,32,17,,99.51,Furnace,1600,60,air,0,,,23
+ZrB2 - 10% SiC,90,90,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,,100,Furnace,1600,60,air,,image,,
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,,98.2,Furnace,1600,60,air,,image,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,30,60,,100,Furnace,1600,60,air,,image,,
+ZrB2 - 20% SiC - 2.5wt.% Ta,77.5,,,20,2.5,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,,99.11,Furnace,1600,600,air,0,401,,22.91
+ZrB2 - 20% SiC - 5wt.% Ta,75,,,20,5,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,,99.11,Furnace,1600,600,air,0,384,,19.15
+ZrB2 - 20% SiC - 10wt.% Ta,70,,,20,10,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1900,50,3,,99.63,Furnace,1600,600,air,0,195,,18.77
+TaB2 - 27.9% SiC,0,,72.1,27.9,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1800,20,10,,96,Furnace,1600,240,air,1000,,,3
+ZrB2 - 8.9% B4C - 10.7% SiC,80.4,,,10.7,,,,8.9,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,95.75,Furnace,1600,100,air,0,,,
+ZrB2 - 8.6% B4C - 13.8% SiC,77.6,,,13.8,,,,8.6,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,95.43,Furnace,1600,100,air,0,,,
+ZrB2 - 8.3% B4C - 16.7% SiC,75,,,16.7,,,,8.3,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,96.15,Furnace,1600,100,air,0,,,
+ZrB2 - 8.1% B4C - 19.3% SiC,72.6,,,19.3,,,,8.1,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,96.77,Furnace,1600,100,air,0,,,
+ZrB2 - 7.8% B4C - 21.9% SiC,70.3,,,21.9,,,,7.8,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,96.67,Furnace,1600,100,air,0,,,
+ZrB2 - 7.2% B4C - 28.1% SiC,64.7,,,28.1,,,,7.2,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,94.77,Furnace,1600,100,air,0,,,
+ZrB2 - 6.5% B4C - 34.7% SiC,58.8,,,34.7,,,,6.5,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,95.67,Furnace,1600,100,air,0,,,
+ZrB2 - 7.3% B4C - 20.5% SiC - 7% TaB2,65.2,,7,20.5,,,,7.3,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,96.01,Furnace,1600,100,air,0,,,
+ZrB2 - 7.1% B4C - 20.2% SiC- 3.5% TaB2 - 5% TaSi2,64.2,,3.5,20.2,,,,7.1,,,5,,,,,,,,,,,,,,,hot pressed,1800,207,30,,95.27,Furnace,1600,100,air,0,,,
+ZrB2 - 7% B4C - 19.9% SiC- 9.8% TaSi2,63.3,,,19.9,,,,7,,,9.8,,,,,,,,,,,,,,,hot pressed,1800,207,30,,94.47,Furnace,1627,100,air,0,,,
+ZrB2 - 7.3% B4C - 20.5% SiC- 14.1% TaB2,58.1,,14.1,20.5,,,,7.3,,,,,,,,,,,,,,,,,,hot pressed,1800,207,30,,97.98,Furnace,1627,100,air,0,,,
+HfB2 - 22.1% SiC - 5.9% HfC,0,72,,22.1,,,,,,,,,,,,,,,,,,,5.9,,,hot pressed,1900,50,50,,99.2,Furnace,1627,1200,air,50,,,0.35
+HfB2 - 22.1% SiC - 5.9% HfC,0,72,,22.1,,,,,,,,,,,,,,,,,,,5.9,,,hot pressed,1900,50,50,,99.2,Furnace,1627,10,air,50,,,1.6
+ZrB2 - 22.4% SiC,77.6,,,22.4,,,,,,,,,,,,,,,,,,,,,,hot pressed,1650,60,120,,97.9,Furnace,1627,10,air,0,45,,
+ZrB2 - 15% SiC,85,,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1820,30,15,,99,Furnace,1627,1200,air,20,50,,3.43
+ZrB2 - 15% SiC - 10% HfB2,75,10,,15,,,,,,,,,,,,,,,,,,,,,,hot pressed,1920,40,45,,98.2,Furnace,1627,1200,air,20,100,,4.88
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,1950,50,4,,99.1,Furnace,1700,60,air,0,45,,4.54
+ZrB2 - 20% SiC - 2wt.% La2O3,78,,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,1950,50,3,,99.6,Furnace,1700,60,air,0,28,,2.18
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,2000,50,4,,99.9,Furnace,1700,60,air,0,12,,0.6
+HfB2 - 20% SiC - 2wt.% La2O3,0,78,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,2000,50,3,,99.7,Furnace,1700,60,air,0,36,,1.97
+ZrB2 - 20% SiC ,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1700,--,air,,,,
+ZrB2 - 20% SiC - 2wt.% La2O3,78,,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1700,--,air,,,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1700,--,air,,,,
+HfB2 - 20% SiC - 2wt.% La2O3,0,78,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1700,--,air,,,,
+ZrB2 - 20% SiC ,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+ZrB2 - 20% SiC - 2wt.% La2O3,78,,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+HfB2 - 20% SiC - 2wt.% La2O3,0,78,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+ZrB2 - 20% SiC ,80,,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+ZrB2 - 20% SiC - 2wt.% La2O3,78,,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+HfB2 - 20% SiC - 2wt.% La2O3,0,78,,20,,,,,,,,,,,,,,,2,,,,,,,Spark Plasma Sintering,Ref,,,,,Furnace,1800,--,air,,,,
+ZrB2 - 10% SiC,90,,,10,,,,,,,,,,,,,,,,,,,,,,hot pressed,1900,50,20,,100,Furnace,1800,1200,air,0,205,,4.8
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,70,120,,95.5,Furnace,1800,100,Air,0,image,,4
+HfB2 - 20% SiC,0,80,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,70,120,,97,Furnace,1800,100,Air,0,,,2
+ZrB2 - 20% SiC - 20% TaSi2,50,,,30,,,,,,,20,,,,,,,,,,,,,,,hot pressed,1600,70,120,,97.7,Furnace,1800,100,Air,0,image,,1
+ZrB2 - 33% SiC,67,,,33,,,,,,,,,,,,,,,,,,,,,,hot pressed,2000,70,120,,97.5,Furnace,1800,100,Air,0,,,5
+ZrB2 - 20% SiC - 20% TaC,60,,,20,,20,,,,,,,,,,,,,,,,,,,,hot pressed,2000,70,120,,98.9,Furnace,1900,100,Air,0,,,21
+HfB2 - 20% SiC - 20% TaSi2,0,60,,20,,,,,,,20,,,,,,,,,,,,,,,hot pressed,1700,70,120,,100,Furnace,1900,100,Air,0,,,2.5
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,,,,,100,Furnace,1900,100,,,30,,2
+ZrB2 - 20% SiC,80,,,20,,,,,,,,,,,,,,,,,,,,,,hot pressed,,,,,100,Furnace,1900,100,,,150,,12.9
+ZrB2 - 14% SiC - 30% C,56,,,14,,,,,,,,,,,,,,,,,,30,,,,hot pressed,,,,,98.2,Furnace,1900,100,,,,,5.7
+ZrB2 - 35% SCS-9a - 20% SiC,45,,,55,,,,,,,,,,,,,,,,,,,,,,hot pressed,,,,,99.9,Furnace,1900,100,,,,,-2.2
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98,Furnace,2000,120,CO-CO2,0,37,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98,Furnace,2000,240,CO-CO2,0,80,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98,Furnace,2000,480,CO-CO2,0,115,,
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98.47,Furnace,2000,30,Air,0,0.5,,0.3
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98.47,Furnace,2000,30,Air,0,8,"(1)B2O3 ?2, (2) ZrO2?6, unoxidized SiC",0.9
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98.47,Furnace,2000,30,Air,0,image,image,1.4
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98.47,Furnace,2000,30,Air,0,image,image,1.5
+ZrB2 - 30% SiC,70,,,30,,,,,,,,,,,,,,,,,,,,,,hot pressed,1950,32,45,,98.47,Furnace,2000,30,Air,0,image,image,1.7
